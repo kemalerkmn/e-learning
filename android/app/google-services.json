@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955693178050",
+    "project_id": "udamely-9f952",
+    "storage_bucket": "udamely-9f952.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955693178050:android:706c165221e36b846e6f5b",
+        "android_client_info": {
+          "package_name": "com.example.e_leaning2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955693178050-5472tp5clv868c47c2jpsiclqlnsmc9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrAodZh7PmRz0yIwG1T5CTiL-Ghog076I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955693178050-5472tp5clv868c47c2jpsiclqlnsmc9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
